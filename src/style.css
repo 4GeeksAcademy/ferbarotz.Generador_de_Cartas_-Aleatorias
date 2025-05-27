@@ -1,5 +1,37 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
 body{
-    background: white;
+    background: green;
+    
+
+    
+}
+.card-poker {
+  width: 350px;
+  height: 550px;
+  background-color: white;
+  border: 5px solid black;
+  border-radius: 20px;
+  box-shadow: 0 8px 16px rgba(0,0,0,0.3);
+  
+}
+.id-figure{
+   
+    width: 100px;
+    height: 100px;
+    display: block;
+    font-size: 100px;
+    text-align: center;
+    line-height: 100px;
+    color: black;
+}
+
+.id-cards{
+   
+    width: 100px;
+    height: 100px;
+    display: block;
+    font-size: 100px;
+    text-align: center;
+    line-height: 100px;
 }
